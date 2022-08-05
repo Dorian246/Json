@@ -1,0 +1,51 @@
+{
+    "apiName":"ApiPoke",
+    "origin":"Queretaro",
+    "created":2022,
+    "figures":[
+        {
+            "id":1,
+            "name":"pikachu",
+            "type":"electrico",
+            "height":0.4,
+            "weight":6.0,
+            "des":"Cuanto más potente es la energía eléctrica que genera este Pokémon, más suaves y elásticas se vuelven las bolsas de sus mejillas.",
+            "figure":"https://drive.google.com/uc?export=view&id=/d/14CmxU9PPnvv3hrj1s6APxEbOlSTpSHuu/view?usp=sharing"
+        },
+        {
+            "id":2,
+            "name":"Meowth ",
+            "type":"Normal",
+            "height":0.4,
+            "weight":4.2,
+            "des":"Le encanta reunir objetos brillantes. Cuando está de buen humor, hasta le muestra la colección a su Entrenador.",
+            "figure":"https://drive.google.com/file/d/1FCncJS0F9qXEMK4jSqwSCzXRLmdxl16v/view"    
+        },
+        {
+            "id":3,
+            "name":"Applin",
+            "type":"planta/dragon",
+            "height":0.2,
+            "weight":0.5,
+            "des":"Habita durante toda su vida en el interior de una manzana.",
+            "figure":"https://drive.google.com/file/d/1aDN4CCL8pKduNm3M8xqJp5OC0OVJBwwC/view?usp=sharing"        
+        },
+        {
+            "id":4,
+            "name":"Meganium",
+            "type":"planta",
+            "height":1.8,
+            "weight":100.5,
+            "des":"La fragancia de la flor de Meganium aplaca y suaviza los ánimos. ",
+            "figure":"https://drive.google.com/file/d/1LwOL78Er5_wgHQ4zbPcAbL7euME5vm7A/view?usp=sharing"  
+        },
+        {
+            "id":5,
+            "name":"Carkol",
+            "typo":"roca",
+            "height":1.1,
+            "weight":78.0,
+            "des":"Forma carbón en el interior de su cuerpo. ",
+            "figure":"https://drive.google.com/file/d/1yK3-adBA0ExdJoGNO4_pCiZ0YaEghAYg/view?usp=sharing"      
+        }
+    ]
